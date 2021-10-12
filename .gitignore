@@ -1,18 +1,12 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+#不管理MAC专有隐藏文件
+.DS_Store
 
-# Other files and folders
-.settings/
+#不管理firmware中间文件
+firmware/fzx_link_logic/.pio
+firmware/fzx_link_logic/.vscode/.browse.c_cpp.db*
+firmware/fzx_link_logic/.vscode/c_cpp_properties.json
+firmware/fzx_link_logic/.vscode/launch.json
+firmware/fzx_link_logic/.vscode/ipch
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+#不管理hardware中间文件
+hardware/fzx_link_logic/History
