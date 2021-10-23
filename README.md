@@ -46,6 +46,10 @@
 
 注意：建议将link_logic直接接在PC的USB口上，不接在其他USB HUB上，因为本设备中已经含有一个USB HUB，多级HUB连接，影响逻辑分析仪的采集性能，逻辑分析仪需要用到USB2.0的高速模式。
 
+## 演示
+
+![avatar](image/5.png)
+
 ## 固件烧录
 
 1. 逻辑分析仪的固件烧录及使用方式参考：https://github.com/wuxx/nanoDLA
