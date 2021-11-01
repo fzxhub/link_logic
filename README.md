@@ -48,7 +48,7 @@
 
 ## 演示
 
-![avatar](image/5.png)
+![avatar](image/x1.png)
 
 ## 固件烧录
 
